@@ -1,5 +1,4 @@
-Below is an **improved, simplified, and exam-friendly DynamoDB CRUD program using Boto3**.
-It removes unnecessary complexity, keeps logic clear, and is **easy to explain in viva**.
+
 
 ---
 
@@ -126,15 +125,6 @@ if __name__ == "__main__":
 
 ---
 
-## ⭐ Why This Version Is Better for Exams
-
-✔ Short
-✔ Clear
-✔ No unnecessary schema logic
-✔ Easy to remember
-✔ Matches CNAD / AWS syllabus expectations
-
-If you want:
 
 * **Marks-wise answer**
 * **Serverless version**
